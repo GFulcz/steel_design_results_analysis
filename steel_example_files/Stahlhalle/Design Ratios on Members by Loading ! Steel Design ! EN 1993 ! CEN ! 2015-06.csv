@@ -1,0 +1,616 @@
+﻿Loading No.;Member;Location;Stress;Design;Design Check;Design Check;
+;No.;x [m];Point No.;Situation;Ratio η [--];Type;Description
+;Ultimate Design Situation;;;;;;
+CO1;1.35 * LC1 + LC9;;;;;;
+CO1;68;7.071;;DS1;0.011;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO1;15;0.000;;DS1;0.018;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO1;173;1.650;;DS1;0.044;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO1;15;0.000;11;DS1;0.048;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO1;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO1;15;4.000;;DS1;0.219;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO1;8;2.500;;DS1;0.008;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO1;150;2.500;7;DS1;0.280;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO1;15;0.667;1;DS1;0.060;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO1;44;2.500;;DS1;0.002;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO1;15;4.000;;DS1;0.219;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO1;8;2.500;;DS1;0.008;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO1;50;2.500;;DS1;0.006;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO1;1;0.000;;DS1;0.000;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO1;8;0.000;;DS1;0.091;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO1;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO1;15;0.000;;DS1;0.712;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO1;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO1;;;;;;;
+CO2;1.35 * LC1 + LC9;;;;;;
+CO2;74;6.403;;DS1;0.015;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO2;16;0.000;;DS1;0.018;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO2;17;0.000;;DS1;0.044;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO2;16;0.000;11;DS1;0.046;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO2;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO2;17;0.000;;DS1;0.218;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO2;52;2.500;;DS1;0.008;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO2;156;2.500;7;DS1;0.280;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO2;16;3.500;14;DS1;0.239;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO2;66;2.500;;DS1;0.006;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO2;17;0.000;;DS1;0.218;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO2;48;2.500;;DS1;0.006;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO2;1;0.000;;DS1;0.000;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO2;41;0.000;;DS1;0.090;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO2;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO2;16;0.000;;DS1;0.721;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO2;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO2;;;;;;;
+CO3;1.35 * LC1 + 1.50 * LC2 + LC9;;;;;;
+CO3;80;0.000;;DS1;0.005;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO3;10;0.000;;DS1;0.036;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO3;5;0.000;;DS1;0.103;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO3;7;0.000;;DS1;0.001;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO3;21;0.000;11;DS1;0.106;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO3;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO3;21;4.000;;DS1;0.491;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO3;8;2.500;;DS1;0.017;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO3;180;1.000;9;DS1;1.152;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO3;15;0.667;1;DS1;0.131;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO3;59;2.500;;DS1;0.002;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO3;21;4.000;;DS1;0.491;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO3;8;2.500;;DS1;0.017;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO3;50;2.500;;DS1;0.006;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO3;8;0.000;;DS1;0.072;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO3;8;0.000;;DS1;0.181;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO3;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO3;21;0.000;;DS1;1.565;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO3;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO3;;;;;;;
+CO4;1.35 * LC1 + 1.50 * LC2 + LC9;;;;;;
+CO4;68;0.000;;DS1;0.000;SP0100.00;Section Proof | Negligible internal forces
+CO4;74;6.403;;DS1;0.018;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO4;16;0.000;;DS1;0.037;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO4;5;0.000;;DS1;0.102;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO4;16;4.000;;DS1;0.002;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO4;17;0.000;11;DS1;0.130;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO4;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO4;16;4.000;;DS1;0.488;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO4;52;2.500;;DS1;0.008;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO4;180;1.000;9;DS1;1.148;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO4;17;0.000;14;DS1;0.584;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO4;39;2.667;;DS1;0.009;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO4;16;4.000;;DS1;0.488;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO4;48;2.500;;DS1;0.006;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO4;41;0.000;;DS1;0.071;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO4;41;0.000;;DS1;0.179;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO4;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO4;16;0.000;;DS1;1.588;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO4;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO4;;;;;;;
+CO5;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC3 + LC9;;;;;;
+CO5;69;6.727;;DS1;0.025;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO5;16;0.000;;DS1;0.037;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO5;5;0.075;1;DS1;0.229;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO5;5;0.000;;DS1;0.109;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO5;17;0.000;;DS1;0.099;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO5;197;0.000;;DS1;0.005;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO5;39;0.000;;DS1;0.008;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO5;65;5.000;;DS1;0.016;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO5;16;0.000;11;DS1;0.109;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO5;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO5;17;0.000;;DS1;0.514;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO5;65;2.500;;DS1;0.526;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO5;5;0.000;14;DS1;0.453;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO5;174;4.000;9;DS1;1.159;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO5;16;0.667;14;DS1;0.134;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO5;65;2.500;;DS1;0.294;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO5;17;0.000;;DS1;0.514;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO5;39;0.667;;DS1;0.058;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO5;215;1.650;;DS1;0.078;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO5;7;0.000;;DS1;0.071;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO5;8;0.000;;DS1;0.177;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO5;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO5;16;0.000;;DS1;1.636;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO5;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO5;;;;;;;
+CO6;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC4 + LC9;;;;;;
+CO6;74;6.403;;DS1;0.119;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO6;16;0.000;;DS1;0.041;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO6;190;0.000;1;DS1;0.181;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO6;5;0.000;;DS1;0.110;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO6;21;1.000;;DS1;0.083;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO6;197;0.000;;DS1;0.004;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO6;43;0.000;;DS1;0.026;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO6;43;5.000;;DS1;0.023;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO6;17;1.650;11;DS1;0.138;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO6;17;0.000;11;DS1;0.132;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO6;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO6;21;4.000;;DS1;0.507;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO6;43;2.500;;DS1;0.828;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO6;15;4.000;4;DS1;0.584;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO6;177;1.000;11;DS1;1.192;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO6;147;1.650;21;DS1;0.604;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO6;43;2.500;;DS1;0.686;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO6;21;4.000;;DS1;0.507;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO6;194;0.990;;DS1;0.010;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO6;36;0.000;;DS1;0.075;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO6;53;3.500;;DS1;0.190;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO6;53;3.500;;DS1;0.190;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO6;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO6;21;0.000;;DS1;1.617;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO6;10;4.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO6;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO6;;;;;;;
+CO7;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC5 + LC9;;;;;;
+CO7;68;7.071;;DS1;0.030;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO7;21;0.000;;DS1;0.037;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO7;190;0.000;1;DS1;0.232;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO7;190;0.075;;DS1;0.107;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO7;147;1.155;;DS1;0.098;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO7;189;1.650;;DS1;0.005;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO7;34;0.000;;DS1;0.008;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO7;43;0.000;;DS1;0.016;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO7;147;1.650;11;DS1;0.132;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO7;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO7;21;4.000;;DS1;0.517;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO7;43;2.500;;DS1;0.526;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO7;21;4.000;5;DS1;0.625;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO7;179;1.000;9;DS1;1.164;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO7;147;1.650;14;DS1;0.617;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO7;43;2.500;;DS1;0.294;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO7;21;4.000;;DS1;0.517;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO7;34;1.000;;DS1;0.083;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO7;197;0.000;;DS1;0.088;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO7;8;0.000;;DS1;0.082;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO7;8;0.000;;DS1;0.206;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO7;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO7;21;0.000;;DS1;1.670;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO7;15;4.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO7;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO7;;;;;;;
+CO8;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC6 + LC9;;;;;;
+CO8;75;6.403;;DS1;0.119;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO8;10;0.000;;DS1;0.041;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO8;216;0.000;1;DS1;0.180;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO8;38;0.000;;DS1;0.110;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO8;15;1.000;;DS1;0.083;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO8;223;0.000;;DS1;0.004;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO8;47;5.000;;DS1;0.026;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO8;47;0.000;;DS1;0.023;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO8;11;1.650;11;DS1;0.139;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO8;11;0.000;11;DS1;0.132;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO8;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO8;15;4.000;;DS1;0.506;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO8;47;2.500;;DS1;0.828;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO8;33;4.000;4;DS1;0.591;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO8;203;4.000;11;DS1;1.192;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO8;173;1.650;14;DS1;0.603;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO8;47;2.500;;DS1;0.686;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO8;15;4.000;;DS1;0.506;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO8;194;0.990;;DS1;0.010;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO8;3;0.000;;DS1;0.074;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO8;55;2.500;;DS1;0.232;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO8;55;2.500;;DS1;0.232;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO8;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO8;15;0.000;;DS1;1.617;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO8;11;1.155;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO8;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO8;;;;;;;
+CO9;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC6 + LC9;;;;;;
+CO9;68;0.000;;DS1;0.000;SP0100.00;Section Proof | Negligible internal forces
+CO9;75;6.403;;DS1;0.102;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO9;10;0.000;;DS1;0.040;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO9;216;0.000;1;DS1;0.180;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO9;38;0.000;;DS1;0.110;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO9;162;0.825;;DS1;0.080;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO9;223;0.000;;DS1;0.004;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO9;47;5.000;;DS1;0.026;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO9;47;0.000;;DS1;0.023;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO9;11;1.650;11;DS1;0.139;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO9;11;0.000;11;DS1;0.132;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO9;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO9;15;4.000;;DS1;0.502;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO9;47;2.500;;DS1;0.826;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO9;10;4.000;18;DS1;0.613;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO9;203;4.000;11;DS1;1.188;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO9;11;0.000;14;DS1;0.602;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO9;47;2.500;;DS1;0.684;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO9;15;4.000;;DS1;0.502;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO9;194;0.990;;DS1;0.011;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO9;3;0.000;;DS1;0.075;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO9;55;2.500;;DS1;0.229;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO9;55;2.500;;DS1;0.229;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO9;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO9;10;0.000;;DS1;1.639;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO9;10;3.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO9;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO9;;;;;;;
+CO10;1.35 * LC1 + 1.50 * LC3 + LC9;;;;;;
+CO10;69;6.727;;DS1;0.045;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO10;16;0.000;;DS1;0.019;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO10;5;0.075;1;DS1;0.380;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO10;5;0.000;;DS1;0.043;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO10;17;0.000;;DS1;0.047;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO10;197;0.000;;DS1;0.009;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO10;39;0.000;;DS1;0.013;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO10;65;5.000;;DS1;0.024;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO10;16;0.000;11;DS1;0.059;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO10;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO10;17;0.000;;DS1;0.263;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO10;65;2.500;;DS1;0.828;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO10;5;0.000;14;DS1;0.502;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO10;156;2.500;11;DS1;0.288;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO10;168;0.619;8;DS1;0.168;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO10;65;2.500;;DS1;0.712;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO10;17;0.000;;DS1;0.263;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO10;199;0.619;;DS1;0.092;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO10;1;0.000;;DS1;0.000;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO10;7;0.000;;DS1;0.105;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO10;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO10;16;0.000;;DS1;0.842;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO10;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO10;;;;;;;
+CO11;1.35 * LC1 + 1.50 * LC4 + LC9;;;;;;
+CO11;74;6.403;;DS1;0.196;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO11;44;2.500;;DS1;0.062;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO11;190;0.000;1;DS1;0.300;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO11;5;0.000;;DS1;0.046;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO11;8;0.000;;DS1;0.043;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO11;197;0.000;;DS1;0.007;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO11;43;5.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO11;43;0.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO11;17;1.031;11;DS1;0.078;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO11;21;0.000;11;DS1;0.063;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO11;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO11;147;0.495;;DS1;0.161;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO11;43;2.500;;DS1;1.449;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO11;5;0.000;1;DS1;0.408;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO11;177;2.500;7;DS1;0.300;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO11;21;4.000;8;DS1;0.307;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO11;43;2.500;;DS1;2.106;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO11;147;0.495;;DS1;0.161;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO11;225;1.155;;DS1;0.016;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO11;53;3.000;;DS1;0.316;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO11;53;3.000;;DS1;0.316;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO11;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO11;43;2.500;;DS1;1.682;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO11;11;0.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO11;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO11;;;;;;;
+CO12;1.35 * LC1 + 1.50 * LC5 + LC9;;;;;;
+CO12;68;7.071;;DS1;0.050;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO12;21;0.000;;DS1;0.019;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO12;190;0.000;1;DS1;0.384;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO12;5;0.000;;DS1;0.043;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO12;147;1.650;;DS1;0.047;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO12;189;1.650;;DS1;0.009;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO12;34;0.000;;DS1;0.013;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO12;43;5.000;;DS1;0.024;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO12;21;0.000;11;DS1;0.060;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO12;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO12;21;4.000;;DS1;0.265;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO12;43;2.500;;DS1;0.826;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO12;190;0.075;14;DS1;0.495;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO12;150;2.500;11;DS1;0.288;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO12;21;3.500;1;DS1;0.289;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO12;43;2.500;;DS1;0.710;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO12;21;4.000;;DS1;0.265;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO12;194;0.825;;DS1;0.020;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO12;1;0.000;;DS1;0.000;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO12;8;0.000;;DS1;0.129;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO12;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO12;21;0.000;;DS1;0.858;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO12;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO12;;;;;;;
+CO13;1.35 * LC1 + 1.50 * LC6 + LC9;;;;;;
+CO13;75;6.403;;DS1;0.196;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO13;44;2.500;;DS1;0.064;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO13;216;0.000;1;DS1;0.300;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO13;38;0.000;;DS1;0.046;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO13;41;0.000;;DS1;0.043;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO13;223;0.000;;DS1;0.007;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO13;47;0.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO13;47;5.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO13;11;1.005;11;DS1;0.079;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO13;15;0.000;11;DS1;0.060;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO13;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO13;11;1.031;;DS1;0.166;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO13;47;2.500;;DS1;1.449;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO13;38;0.000;8;DS1;0.409;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO13;203;2.500;7;DS1;0.301;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO13;15;4.000;1;DS1;0.306;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO13;47;2.500;;DS1;2.106;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO13;11;1.031;;DS1;0.166;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO13;199;1.155;;DS1;0.017;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO13;55;2.500;;DS1;0.385;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO13;55;2.500;;DS1;0.385;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO13;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO13;47;2.500;;DS1;1.681;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO13;11;0.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO13;90;0.000;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO13;;;;;;;
+CO14;1.35 * LC1 + 1.50 * LC6 + LC9;;;;;;
+CO14;75;6.403;;DS1;0.188;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO14;44;2.500;;DS1;0.062;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO14;216;0.000;1;DS1;0.299;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO14;38;0.000;;DS1;0.046;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO14;41;0.000;;DS1;0.042;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO14;223;0.000;;DS1;0.007;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO14;47;0.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO14;47;5.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO14;11;1.155;11;DS1;0.079;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO14;15;0.000;11;DS1;0.058;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO14;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO14;173;0.495;;DS1;0.158;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO14;47;2.500;;DS1;1.448;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO14;38;0.000;8;DS1;0.408;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO14;203;2.500;7;DS1;0.301;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO14;10;4.000;14;DS1;0.303;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO14;47;2.500;;DS1;2.103;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO14;173;0.495;;DS1;0.158;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO14;199;1.155;;DS1;0.017;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO14;55;2.500;;DS1;0.383;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO14;55;2.500;;DS1;0.383;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO14;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO14;47;2.500;;DS1;1.678;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO14;10;4.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO14;90;0.000;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO14;;;;;;;
+CO15;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC3 + LC9;;;;;;
+CO15;69;6.727;;DS1;0.045;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO15;16;0.000;;DS1;0.028;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO15;5;0.075;1;DS1;0.381;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO15;5;0.000;;DS1;0.078;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO15;17;0.000;;DS1;0.074;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO15;197;0.000;;DS1;0.009;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO15;39;0.000;;DS1;0.013;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO15;65;5.000;;DS1;0.024;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO15;16;0.000;11;DS1;0.087;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO15;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO15;17;0.000;;DS1;0.398;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO15;65;2.500;;DS1;0.828;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO15;5;0.000;14;DS1;0.556;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO15;184;3.500;11;DS1;0.626;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO15;168;0.206;8;DS1;0.265;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO15;65;2.500;;DS1;0.712;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO15;17;0.000;;DS1;0.398;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO15;196;0.472;;DS1;0.014;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO15;188;0.495;;DS1;0.072;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO15;7;0.000;;DS1;0.060;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO15;7;0.000;;DS1;0.147;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO15;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO15;16;0.000;;DS1;1.267;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO15;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO15;;;;;;;
+CO16;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC4 + LC9;;;;;;
+CO16;74;6.403;;DS1;0.197;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO16;44;2.500;;DS1;0.063;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO16;190;0.000;1;DS1;0.300;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO16;5;0.000;;DS1;0.081;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO16;21;1.000;;DS1;0.064;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO16;197;0.000;;DS1;0.007;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO16;43;5.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO16;43;0.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO16;17;1.650;11;DS1;0.112;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO16;21;0.000;11;DS1;0.092;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO16;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO16;140;0.825;;DS1;0.235;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO16;43;2.500;;DS1;1.449;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO16;21;4.000;8;DS1;0.470;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO16;177;1.500;7;DS1;0.640;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO16;21;4.000;8;DS1;0.470;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO16;43;2.500;;DS1;2.107;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO16;140;0.825;;DS1;0.235;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO16;2;0.495;;DS1;0.032;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO16;53;3.000;;DS1;0.317;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO16;53;3.000;;DS1;0.317;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO16;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO16;43;2.500;;DS1;1.681;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO16;10;3.500;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO16;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO16;;;;;;;
+CO17;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC5 + LC9;;;;;;
+CO17;72;6.403;;DS1;0.000;SP0100.00;Section Proof | Negligible internal forces
+CO17;68;7.071;;DS1;0.050;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO17;21;0.000;;DS1;0.028;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO17;190;0.000;1;DS1;0.385;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO17;190;0.075;;DS1;0.077;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO17;147;1.650;;DS1;0.073;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO17;189;1.650;;DS1;0.009;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO17;34;0.000;;DS1;0.013;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO17;43;5.000;;DS1;0.024;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO17;21;0.000;11;DS1;0.089;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO17;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO17;21;4.000;;DS1;0.400;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO17;43;2.500;;DS1;0.827;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO17;190;0.075;14;DS1;0.544;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO17;178;1.500;11;DS1;0.628;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO17;21;3.500;1;DS1;0.436;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO17;43;2.500;;DS1;0.711;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO17;21;4.000;;DS1;0.400;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO17;218;0.619;;DS1;0.018;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO17;222;1.575;;DS1;0.100;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO17;8;0.000;;DS1;0.070;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO17;8;0.000;;DS1;0.177;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO17;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO17;21;0.000;;DS1;1.292;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO17;90;0.500;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO17;;;;;;;
+CO18;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC6 + LC9;;;;;;
+CO18;75;6.403;;DS1;0.197;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO18;44;2.500;;DS1;0.064;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO18;216;0.000;1;DS1;0.300;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO18;38;0.000;;DS1;0.081;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO18;15;1.000;;DS1;0.063;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO18;223;0.000;;DS1;0.007;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO18;47;0.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO18;47;5.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO18;11;1.650;11;DS1;0.113;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO18;29;0.000;11;DS1;0.094;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO18;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO18;166;0.825;;DS1;0.234;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO18;47;2.500;;DS1;1.449;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO18;15;4.000;1;DS1;0.469;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO18;203;3.500;7;DS1;0.640;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO18;15;4.000;1;DS1;0.468;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO18;47;2.500;;DS1;2.106;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO18;166;0.825;;DS1;0.234;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO18;35;0.495;;DS1;0.032;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO18;55;2.500;;DS1;0.386;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO18;55;2.500;;DS1;0.386;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO18;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO18;47;2.500;;DS1;1.681;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO18;10;3.500;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO18;90;0.000;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO18;;;;;;;
+CO19;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC6 + LC9;;;;;;
+CO19;75;6.403;;DS1;0.184;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+CO19;44;2.500;;DS1;0.061;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+CO19;216;0.000;1;DS1;0.300;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+CO19;38;0.000;;DS1;0.080;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO19;41;0.000;;DS1;0.042;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO19;223;0.000;;DS1;0.007;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+CO19;47;0.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO19;47;5.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+CO19;11;1.650;11;DS1;0.113;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+CO19;29;0.000;11;DS1;0.094;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+CO19;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+CO19;166;0.825;;DS1;0.233;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO19;47;2.500;;DS1;1.447;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+CO19;38;0.000;8;DS1;0.466;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+CO19;203;3.500;7;DS1;0.638;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+CO19;10;4.000;14;DS1;0.465;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+CO19;47;2.500;;DS1;2.101;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO19;166;0.825;;DS1;0.233;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO19;225;1.237;;DS1;0.030;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+CO19;55;2.500;;DS1;0.384;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+CO19;55;2.500;;DS1;0.384;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+CO19;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+CO19;47;2.500;;DS1;1.676;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+CO19;10;3.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+CO19;90;0.000;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+CO19;;;;;;;
+RC1;GZT (STR/GEO) - Ständig / vorübergehend - Gl. 6.10;;;;;;
+RC1;1;0.000;;DS1;0.000;SP0100.00;Section Proof | Negligible internal forces
+RC1;75;6.403;;DS1;0.197;SP1100.00;Section Proof | Tension acc. to EN 1993-1-1, 6.2.3
+RC1;44;2.500;;DS1;0.064;SP1200.00;Section Proof | Compression acc. to EN 1993-1-1, 6.2.4
+RC1;190;0.000;1;DS1;0.385;SP2100.00;Section Proof | Torsion acc. to EN 1993-1-1, 6.2.7
+RC1;5;0.000;;DS1;0.110;SP3100.01;Section Proof | Shear in z-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+RC1;17;0.000;;DS1;0.099;SP3100.02;Section Proof | Shear in z-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+RC1;197;0.000;;DS1;0.009;SP3200.01;Section Proof | Shear in y-axis and torsion acc. to EN 1993-1-1, 6.2.7(9) | Plastic design
+RC1;43;5.000;;DS1;0.040;SP3200.02;Section Proof | Shear in y-axis acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+RC1;43;0.000;;DS1;0.045;SP3300.02;Section Proof | Resulting shear acc. to EN 1993-1-1, 6.2.6(2) | Plastic design
+RC1;11;1.650;11;DS1;0.139;SP3400.01;Section Proof | Shear and torsion acc. to EN 1993-1-1, 6.2.6(4) and 6.2.7(5) | Elastic design
+RC1;11;0.000;11;DS1;0.132;SP3400.02;Section Proof | Shear acc. to EN 1993-1-1, 6.2.6(4) | Elastic design
+RC1;1;0.000;;DS1;0.000;SP3500.00;Section Proof | Shear buckling acc. to EN 1993-1-5, 5.1, 5.2, 5.3 and 5.5
+RC1;21;4.000;;DS1;0.517;SP4100.03;Section Proof | Bending about y-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+RC1;43;2.500;;DS1;1.449;SP5100.03;Section Proof | Bending about z-axis acc. to EN 1993-1-1, 6.2.5 | Plastic design
+RC1;21;4.000;5;DS1;0.625;SP6100.00;Section Proof | Axial and shear stress acc. to EN 1993-1-1, 6.2.1(5) | Elastic design
+RC1;177;1.000;11;DS1;1.192;SP6110.00;Section Proof | Elastic design acc. to EN 1993-1-3, 6.1.6
+RC1;147;1.650;14;DS1;0.617;SP6200.00;Section Proof | Bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.2, 6.2.9.3, 6.2.10 | Elastic design
+RC1;43;2.500;;DS1;2.107;SP6500.01;Section Proof | Biaxial bending, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+RC1;21;4.000;;DS1;0.517;SP6500.02;Section Proof | Bending about y-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+RC1;199;0.619;;DS1;0.092;SP6500.03;Section Proof | Bending about z-axis, axial force and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+RC1;188;0.413;;DS1;0.071;SP6500.04;Section Proof | Biaxial bending and shear acc. to EN 1993-1-1, 6.2.9.1 and 6.2.10 | Plastic design
+RC1;55;2.500;;DS1;0.386;ST1100.00;Stability | Flexural buckling about principal y-axis acc. to EN 1993-1-1, 6.3.1
+RC1;55;2.500;;DS1;0.386;ST1300.00;Stability | Flexural buckling about principal z-axis acc. to EN 1993-1-1, 6.3.1
+RC1;1;0.000;;DS1;0.000;ST1500.00;Stability | Torsional buckling acc. to EN 1993-1-1, 6.3.1
+RC1;47;2.500;;DS1;1.834;ST3100.00;Stability | Bending and buckling about principal axes acc. to EN 1993-1-1, 6.3.3
+RC1;10;3.000;;DS1;Warning;WA5001.00;Warning | Torsion is neglected for stability design checks
+RC1;90;0.000;;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2)
+RC1;;;;;;;
+;Serviceability Design Situation;;;;;;
+CO20;LC1 + LC9;;;;;;
+CO20;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO20;57;2.500;;DS2;0.474;SE1100.00;Serviceability | Deflections in z-direction
+CO20;154;2.500;;DS2;0.630;SE1200.00;Serviceability | Deflections in u-direction
+CO20;;;;;;;
+CO21;LC1 + LC9;;;;;;
+CO21;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO21;53;2.500;;DS2;0.475;SE1100.00;Serviceability | Deflections in z-direction
+CO21;154;2.500;;DS2;0.630;SE1200.00;Serviceability | Deflections in u-direction
+CO21;;;;;;;
+CO22;LC1 + LC2 + LC9;;;;;;
+CO22;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO22;148;2.500;;DS2;0.614;SE1100.00;Serviceability | Deflections in v-direction
+CO22;154;2.500;;DS2;1.720;SE1200.00;Serviceability | Deflections in u-direction
+CO22;;;;;;;
+CO23;LC1 + LC2 + LC9;;;;;;
+CO23;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO23;174;2.500;;DS2;0.614;SE1100.00;Serviceability | Deflections in v-direction
+CO23;174;2.500;;DS2;1.720;SE1200.00;Serviceability | Deflections in u-direction
+CO23;;;;;;;
+CO24;LC1 + LC2 + 0.60 * LC3 + LC9;;;;;;
+CO24;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO24;66;2.500;;DS2;0.750;SE1100.00;Serviceability | Deflections in z-direction
+CO24;66;2.500;;DS2;2.777;SE1200.00;Serviceability | Deflections in y-direction
+CO24;;;;;;;
+CO25;LC1 + LC2 + 0.60 * LC4 + LC9;;;;;;
+CO25;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO25;177;2.500;;DS2;0.615;SE1100.00;Serviceability | Deflections in v-direction
+CO25;43;2.500;;DS2;4.189;SE1200.00;Serviceability | Deflections in y-direction
+CO25;;;;;;;
+CO26;LC1 + LC2 + 0.60 * LC5 + LC9;;;;;;
+CO26;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO26;43;2.500;;DS2;0.750;SE1100.00;Serviceability | Deflections in z-direction
+CO26;43;2.500;;DS2;2.778;SE1200.00;Serviceability | Deflections in y-direction
+CO26;;;;;;;
+CO27;LC1 + LC2 + 0.60 * LC6 + LC9;;;;;;
+CO27;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO27;203;2.500;;DS2;0.615;SE1100.00;Serviceability | Deflections in v-direction
+CO27;47;2.500;;DS2;4.189;SE1200.00;Serviceability | Deflections in y-direction
+CO27;;;;;;;
+CO28;LC1 + LC2 + 0.60 * LC6 + LC9;;;;;;
+CO28;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO28;203;2.500;;DS2;0.615;SE1100.00;Serviceability | Deflections in v-direction
+CO28;47;2.500;;DS2;4.184;SE1200.00;Serviceability | Deflections in y-direction
+CO28;;;;;;;
+CO29;LC1 + LC3 + LC9;;;;;;
+CO29;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO29;66;2.500;;DS2;0.916;SE1100.00;Serviceability | Deflections in z-direction
+CO29;66;2.500;;DS2;4.458;SE1200.00;Serviceability | Deflections in y-direction
+CO29;;;;;;;
+CO30;LC1 + LC4 + LC9;;;;;;
+CO30;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO30;53;2.500;;DS2;0.589;SE1100.00;Serviceability | Deflections in z-direction
+CO30;43;2.500;;DS2;7.189;SE1200.00;Serviceability | Deflections in y-direction
+CO30;;;;;;;
+CO31;LC1 + LC5 + LC9;;;;;;
+CO31;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO31;43;2.500;;DS2;0.915;SE1100.00;Serviceability | Deflections in z-direction
+CO31;43;2.500;;DS2;4.452;SE1200.00;Serviceability | Deflections in y-direction
+CO31;;;;;;;
+CO32;LC1 + LC6 + LC9;;;;;;
+CO32;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO32;55;2.500;;DS2;0.622;SE1100.00;Serviceability | Deflections in z-direction
+CO32;47;2.500;;DS2;7.189;SE1200.00;Serviceability | Deflections in y-direction
+CO32;;;;;;;
+CO33;LC1 + LC6 + LC9;;;;;;
+CO33;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO33;55;2.500;;DS2;0.621;SE1100.00;Serviceability | Deflections in z-direction
+CO33;47;2.500;;DS2;7.185;SE1200.00;Serviceability | Deflections in y-direction
+CO33;;;;;;;
+CO34;LC1 + 0.50 * LC2 + LC3 + LC9;;;;;;
+CO34;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO34;66;2.500;;DS2;0.916;SE1100.00;Serviceability | Deflections in z-direction
+CO34;66;2.500;;DS2;4.458;SE1200.00;Serviceability | Deflections in y-direction
+CO34;;;;;;;
+CO35;LC1 + 0.50 * LC2 + LC4 + LC9;;;;;;
+CO35;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO35;53;2.500;;DS2;0.589;SE1100.00;Serviceability | Deflections in z-direction
+CO35;43;2.500;;DS2;7.190;SE1200.00;Serviceability | Deflections in y-direction
+CO35;;;;;;;
+CO36;LC1 + 0.50 * LC2 + LC5 + LC9;;;;;;
+CO36;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO36;43;2.500;;DS2;0.915;SE1100.00;Serviceability | Deflections in z-direction
+CO36;43;2.500;;DS2;4.453;SE1200.00;Serviceability | Deflections in y-direction
+CO36;;;;;;;
+CO37;LC1 + 0.50 * LC2 + LC6 + LC9;;;;;;
+CO37;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO37;55;2.500;;DS2;0.622;SE1100.00;Serviceability | Deflections in z-direction
+CO37;47;2.500;;DS2;7.189;SE1200.00;Serviceability | Deflections in y-direction
+CO37;;;;;;;
+CO38;LC1 + 0.50 * LC2 + LC6 + LC9;;;;;;
+CO38;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+CO38;55;2.500;;DS2;0.621;SE1100.00;Serviceability | Deflections in z-direction
+CO38;47;2.500;;DS2;7.183;SE1200.00;Serviceability | Deflections in y-direction
+CO38;;;;;;;
+RC2;GZG - Charakteristisch;;;;;;
+RC2;1;0.000;;DS2;0.000;SE0100.00;Serviceability | Negligible deflections
+RC2;66;2.500;;DS2;0.916;SE1100.00;Serviceability | Deflections in z-direction
+RC2;47;2.500;;DS2;7.101;SE1200.00;Serviceability | Deflections in y-direction

@@ -1,0 +1,4 @@
+﻿Design Situation;;;EN 1990 | DIN | 2012-08;Combination;Consider inclusive/exclusive load cases;;;
+;Name;Active;Design Situation Type;Wizard;;Relationship Between Load Cases;Options;Comment
+DS1;ULS (STR/GEO) - Permanent and transient - Eq. 6.10;+;ULS (STR/GEO) - Permanent and transient - Eq. 6.10;--;-;;;
+DS2;SLS - Characteristic;+;SLS - Characteristic;--;-;;;

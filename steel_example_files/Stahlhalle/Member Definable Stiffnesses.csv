@@ -1,0 +1,2 @@
+﻿Stiff. No.;Member Definable Stiffness;;Stiffness [kNm^2 ];;;Stiffness [kN];;;Specific Weight;Section Area;Main Axes;Coeff. of Th. Exp.;Section Width;Section Height;;
+;Name;Members No.;Torsion GI_t;Bending EI_y;Bending EI_z;Axial EA;Shear GA_y;Shear GA_z;γ [kN/m^3 ];A [cm^2 ];α [deg];α [1/°C];b [mm];h [mm];Options;Comment

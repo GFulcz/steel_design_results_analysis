@@ -1,0 +1,5 @@
+﻿Hinge No.;;Translational Release/Spring [kN/m];;;Rotational Release/Spring [kNm/rad];;;;
+;Coordinate System;C_u,x;C_u,y;C_u,z;C_φ,x;C_φ,y;C_φ,z;Options;Comment
+1;Local xyz;inf;inf;inf;0;0;0;;
+2;Local xyz;inf;inf;inf;inf;0;0;;
+3;Local xyz;0;inf;inf;inf;0;0;;

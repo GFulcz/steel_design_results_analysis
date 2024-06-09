@@ -1,0 +1,3 @@
+﻿Material No.;;Material;;Modulus of Elast.;Shear Modulus;Poisson's Ratio;Specific Weight;Mass Density;Coeff. of Th. Exp.;;
+;Material Name;Type;Material Model;E [N/mm^2 ];G [N/mm^2 ];ν [--];γ [kN/m^3 ];ρ [kg/m^3 ];α [1/°C];Options;Comment
+1;S235 | EN 10025-2:2004-11;Steel;Isotropic | Linear Elastic;210000;80769.23076923078;0.3;78.5;7850;1.2e-05;;

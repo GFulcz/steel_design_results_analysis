@@ -1,0 +1,3 @@
+﻿No.;;;;;Load;Member Load Parameters;;;;;;;;;;;;;;;;;;
+;Assigned to Members No.;Load Type;Load Distribution;Coordinate System;Direction;p [kN/m];;;;;;;;;;;;;;;;;Options;Comment
+1;68-83;Initial Prestress;Uniform;Local xyz;x;3;;;;;;;;;;;;;;;;;;

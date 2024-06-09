@@ -1,0 +1,4 @@
+﻿No.;;Generate into;Load;Coordinate;Load;Load Magnitude;;;Nodes No.;;;;
+;Name;Load Case;Distribution;System;Direction;p [kN/m^2 ];;;;;;Options;Comment
+1;LC1 - Eigengewicht | Uniform | Z_A | p : 0.35 kN/m^2;LC1 - Eigengewicht;Uniform;1 - Global XYZ;Z_A;0.35;;;;;;;
+2;LC2 - Schnee | Uniform | Z_P | p : 0.68 kN/m^2;LC2 - Schnee;Uniform;1 - Global XYZ;Z_P;0.68;;;;;;;

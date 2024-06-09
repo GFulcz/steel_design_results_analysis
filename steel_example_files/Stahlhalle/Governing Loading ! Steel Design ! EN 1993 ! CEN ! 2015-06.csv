@@ -1,0 +1,121 @@
+﻿Loading No.;Design;Design Check;Design Check;;
+;Situation;Ratio η [--];Type;Description;Location
+CO1;1.35 * LC1 + LC9;;;;
+CO1;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO1;;;;;
+CO2;1.35 * LC1 + LC9;;;;
+CO2;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO2;;;;;
+CO3;1.35 * LC1 + 1.50 * LC2 + LC9;;;;
+CO3;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO3;;;;;
+CO4;1.35 * LC1 + 1.50 * LC2 + LC9;;;;
+CO4;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO4;;;;;
+CO5;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC3 + LC9;;;;
+CO5;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO5;;;;;
+CO6;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC4 + LC9;;;;
+CO6;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO6;;;;;
+CO7;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC5 + LC9;;;;
+CO7;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO7;;;;;
+CO8;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC6 + LC9;;;;
+CO8;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO8;;;;;
+CO9;1.35 * LC1 + 1.50 * LC2 + 0.90 * LC6 + LC9;;;;
+CO9;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO9;;;;;
+CO10;1.35 * LC1 + 1.50 * LC3 + LC9;;;;
+CO10;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO10;;;;;
+CO11;1.35 * LC1 + 1.50 * LC4 + LC9;;;;
+CO11;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO11;;;;;
+CO12;1.35 * LC1 + 1.50 * LC5 + LC9;;;;
+CO12;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO12;;;;;
+CO13;1.35 * LC1 + 1.50 * LC6 + LC9;;;;
+CO13;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.000 m)
+CO13;;;;;
+CO14;1.35 * LC1 + 1.50 * LC6 + LC9;;;;
+CO14;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.000 m)
+CO14;;;;;
+CO15;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC3 + LC9;;;;
+CO15;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO15;;;;;
+CO16;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC4 + LC9;;;;
+CO16;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO16;;;;;
+CO17;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC5 + LC9;;;;
+CO17;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.500 m)
+CO17;;;;;
+CO18;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC6 + LC9;;;;
+CO18;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.000 m)
+CO18;;;;;
+CO19;1.35 * LC1 + 0.75 * LC2 + 1.50 * LC6 + LC9;;;;
+CO19;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.000 m)
+CO19;;;;;
+CO20;LC1 + LC9;;;;
+CO20;DS2;0.630;SE1200.00;Serviceability | Deflections in u-direction;Member No. 154 (x: 2.500 m)
+CO20;;;;;
+CO21;LC1 + LC9;;;;
+CO21;DS2;0.630;SE1200.00;Serviceability | Deflections in u-direction;Member No. 154 (x: 2.500 m)
+CO21;;;;;
+CO22;LC1 + LC2 + LC9;;;;
+CO22;DS2;1.720;SE1200.00;Serviceability | Deflections in u-direction;Member No. 154 (x: 2.500 m)
+CO22;;;;;
+CO23;LC1 + LC2 + LC9;;;;
+CO23;DS2;1.720;SE1200.00;Serviceability | Deflections in u-direction;Member No. 174 (x: 2.500 m)
+CO23;;;;;
+CO24;LC1 + LC2 + 0.60 * LC3 + LC9;;;;
+CO24;DS2;2.777;SE1200.00;Serviceability | Deflections in y-direction;Member No. 66 (x: 2.500 m)
+CO24;;;;;
+CO25;LC1 + LC2 + 0.60 * LC4 + LC9;;;;
+CO25;DS2;4.189;SE1200.00;Serviceability | Deflections in y-direction;Member No. 43 (x: 2.500 m)
+CO25;;;;;
+CO26;LC1 + LC2 + 0.60 * LC5 + LC9;;;;
+CO26;DS2;2.778;SE1200.00;Serviceability | Deflections in y-direction;Member No. 43 (x: 2.500 m)
+CO26;;;;;
+CO27;LC1 + LC2 + 0.60 * LC6 + LC9;;;;
+CO27;DS2;4.189;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)
+CO27;;;;;
+CO28;LC1 + LC2 + 0.60 * LC6 + LC9;;;;
+CO28;DS2;4.184;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)
+CO28;;;;;
+CO29;LC1 + LC3 + LC9;;;;
+CO29;DS2;4.458;SE1200.00;Serviceability | Deflections in y-direction;Member No. 66 (x: 2.500 m)
+CO29;;;;;
+CO30;LC1 + LC4 + LC9;;;;
+CO30;DS2;7.189;SE1200.00;Serviceability | Deflections in y-direction;Member No. 43 (x: 2.500 m)
+CO30;;;;;
+CO31;LC1 + LC5 + LC9;;;;
+CO31;DS2;4.452;SE1200.00;Serviceability | Deflections in y-direction;Member No. 43 (x: 2.500 m)
+CO31;;;;;
+CO32;LC1 + LC6 + LC9;;;;
+CO32;DS2;7.189;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)
+CO32;;;;;
+CO33;LC1 + LC6 + LC9;;;;
+CO33;DS2;7.185;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)
+CO33;;;;;
+CO34;LC1 + 0.50 * LC2 + LC3 + LC9;;;;
+CO34;DS2;4.458;SE1200.00;Serviceability | Deflections in y-direction;Member No. 66 (x: 2.500 m)
+CO34;;;;;
+CO35;LC1 + 0.50 * LC2 + LC4 + LC9;;;;
+CO35;DS2;7.190;SE1200.00;Serviceability | Deflections in y-direction;Member No. 43 (x: 2.500 m)
+CO35;;;;;
+CO36;LC1 + 0.50 * LC2 + LC5 + LC9;;;;
+CO36;DS2;4.453;SE1200.00;Serviceability | Deflections in y-direction;Member No. 43 (x: 2.500 m)
+CO36;;;;;
+CO37;LC1 + 0.50 * LC2 + LC6 + LC9;;;;
+CO37;DS2;7.189;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)
+CO37;;;;;
+CO38;LC1 + 0.50 * LC2 + LC6 + LC9;;;;
+CO38;DS2;7.183;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)
+CO38;;;;;
+RC1;GZT (STR/GEO) - Ständig / vorübergehend - Gl. 6.10;;;;
+RC1;DS1;Non-designable;ER2300.00;Error | Stability design is not possible acc. to EN 1993-1-3, 6.2.4(2);Member No. 90 (x: 0.000 m)
+RC1;;;;;
+RC2;GZG - Charakteristisch;;;;
+RC2;DS2;7.101;SE1200.00;Serviceability | Deflections in y-direction;Member No. 47 (x: 2.500 m)

@@ -1,0 +1,11 @@
+﻿Load Case;;;;;EN 1990 | DIN | 2012-08;Self-Weight | Factor in;;;;;
+;Name;To Solve;Analysis Type;Static Analysis Settings;Action Category;;X;Y;Z;Options;Comment
+LC1;Eigengewicht;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Permanent;+;0;0;1;;Eigengewicht, Dach- und Wandlast.
+LC2;Schnee;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Snow/Ice loads - H <= 1000 m;-;;;;;Schneelast
+LC3;Wind, w+, X;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Wind;-;;;;;Windlast
+LC4;Wind, w-, X;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Wind;-;;;;;Windlast
+LC5;Wind, w+, Y;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Wind;-;;;;;Windlast
+LC6;Wind, w-, Y;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Wind;-;;;;;Windlast
+LC7;;;;;;;;;;;
+LC8;;;;;;;;;;;
+LC9;Vorspannung;+;Static Analysis;SA1 - Geometrically linear | Newton-Raphson;Prestress;-;;;;;Vorspannung

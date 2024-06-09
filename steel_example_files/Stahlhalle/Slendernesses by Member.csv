@@ -1,0 +1,227 @@
+﻿Member No.;Major Axis y/u;;;;;Minor Axis z/v;;;;;
+;Under Stress;Length L [m];k_y/u [--];i_y/u [mm];λ_y/u [--];Under Stress;Length L [m];k_z/v [--];i_z/v [mm];λ_z/v [--];Comment
+1;Compression / Flexure;4.000;1.80;65.7;109.6;Compression / Flexure;4.000;1.80;39.8;180.7;
+2;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+3;Compression / Flexure;1.575;1.00;57.3;27.5;Compression / Flexure;1.575;1.00;35.2;44.7;No effective lengths assigned.
+4;Compression / Flexure;0.150;1.00;57.3;2.6;Compression / Flexure;0.150;1.00;35.2;4.3;No effective lengths assigned.
+5;Compression / Flexure;0.075;1.00;57.3;1.3;Compression / Flexure;0.075;1.00;35.2;2.1;No effective lengths assigned.
+6;Compression / Flexure;4.000;1.80;65.7;109.6;Compression / Flexure;4.000;1.80;39.8;180.7;
+7;Compression / Flexure;4.500;1.80;65.7;123.3;Compression / Flexure;4.500;1.80;39.8;203.3;
+8;Compression / Flexure;5.000;1.80;65.7;137.0;Compression / Flexure;5.000;1.80;39.8;225.8;
+9;Compression / Flexure;4.500;1.80;65.7;123.3;Compression / Flexure;4.500;1.80;39.8;203.3;
+10;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+11;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+12;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+13;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+14;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+15;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+16;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+17;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+18;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+19;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+20;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+21;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+22;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+23;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+24;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+25;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+26;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+27;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+28;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+29;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+30;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+31;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+32;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+33;Compression / Flexure;4.000;1.80;204.3;35.2;Compression / Flexure;4.000;1.80;43.1;167.2;
+34;Compression / Flexure;4.000;1.80;65.7;109.6;Compression / Flexure;4.000;1.80;39.8;180.7;
+35;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+36;Compression / Flexure;1.575;1.00;57.3;27.5;Compression / Flexure;1.575;1.00;35.2;44.7;No effective lengths assigned.
+37;Compression / Flexure;0.150;1.00;57.3;2.6;Compression / Flexure;0.150;1.00;35.2;4.3;No effective lengths assigned.
+38;Compression / Flexure;0.075;1.00;57.3;1.3;Compression / Flexure;0.075;1.00;35.2;2.1;No effective lengths assigned.
+39;Compression / Flexure;4.000;1.80;65.7;109.6;Compression / Flexure;4.000;1.80;39.8;180.7;
+40;Compression / Flexure;4.500;1.80;65.7;123.3;Compression / Flexure;4.500;1.80;39.8;203.3;
+41;Compression / Flexure;5.000;1.80;65.7;137.0;Compression / Flexure;5.000;1.80;39.8;225.8;
+42;Compression / Flexure;4.500;1.80;65.7;123.3;Compression / Flexure;4.500;1.80;39.8;203.3;
+43;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+44;Compression / Flexure;5.000;1.00;34.2;146.2;Compression / Flexure;5.000;1.00;34.2;146.2;
+45;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+46;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+47;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+48;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+49;Compression / Flexure;5.000;1.00;34.2;146.2;Compression / Flexure;5.000;1.00;34.2;146.2;
+50;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+51;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+52;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+53;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+54;Compression / Flexure;5.000;1.00;34.2;146.2;Compression / Flexure;5.000;1.00;34.2;146.2;
+55;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+56;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+57;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+58;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+59;Compression / Flexure;5.000;1.00;34.2;146.2;Compression / Flexure;5.000;1.00;34.2;146.2;
+60;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+61;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+62;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+63;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+64;Compression / Flexure;5.000;1.00;34.2;146.2;Compression / Flexure;5.000;1.00;34.2;146.2;
+65;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+66;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+67;Compression / Flexure;5.000;1.00;19.6;254.7;Compression / Flexure;5.000;1.00;19.6;254.7;
+68;Tension;7.071;1.00;22.9;309.2;Tension;7.071;1.00;11.7;604.9;No effective lengths assigned.
+69;Tension;6.727;1.00;22.9;294.1;Tension;6.727;1.00;11.7;575.4;No effective lengths assigned.
+70;Tension;7.071;1.00;22.9;309.2;Tension;7.071;1.00;11.7;604.9;No effective lengths assigned.
+71;Tension;6.727;1.00;22.9;294.1;Tension;6.727;1.00;11.7;575.4;No effective lengths assigned.
+72;Tension;6.403;1.00;22.9;280.0;Tension;6.403;1.00;11.7;547.7;No effective lengths assigned.
+73;Tension;6.403;1.00;22.9;280.0;Tension;6.403;1.00;11.7;547.7;No effective lengths assigned.
+74;Tension;6.403;1.00;22.9;280.0;Tension;6.403;1.00;11.7;547.7;No effective lengths assigned.
+75;Tension;6.403;1.00;22.9;280.0;Tension;6.403;1.00;11.7;547.7;No effective lengths assigned.
+76;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+77;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+78;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+79;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+80;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+81;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+82;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+83;Tension;7.089;1.00;22.9;310.0;Tension;7.089;1.00;11.7;606.4;No effective lengths assigned.
+84;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+85;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+86;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+87;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+88;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+89;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+90;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+91;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+92;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+93;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+94;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+95;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+96;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+97;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+98;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+99;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+100;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+101;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+102;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+103;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+104;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+105;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+106;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+107;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+108;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+109;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+110;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+111;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+112;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+113;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+114;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+115;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+116;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+117;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+118;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+119;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+120;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+121;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+122;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+123;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+124;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+125;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+126;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+127;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+128;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+129;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+130;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+131;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+132;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+133;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+134;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+135;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+136;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+137;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+138;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+139;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+140;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+141;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+142;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+143;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+144;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+145;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+146;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+147;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+148;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+149;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+150;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+151;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+152;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+153;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+154;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+155;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+156;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+157;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+158;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+159;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+160;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+161;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+162;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+163;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+164;Compression / Flexure;0.075;1.00;204.3;0.4;Compression / Flexure;0.075;1.00;43.1;1.7;
+165;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+166;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+167;Compression / Flexure;0.150;1.00;204.3;0.7;Compression / Flexure;0.150;1.00;43.1;3.5;
+168;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+169;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+170;Compression / Flexure;1.575;1.00;204.3;7.7;Compression / Flexure;1.575;1.00;43.1;36.6;
+171;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+172;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+173;Compression / Flexure;1.650;1.00;204.3;8.1;Compression / Flexure;1.650;1.00;43.1;38.3;
+174;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+175;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+176;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+177;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+178;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+179;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+180;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+181;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+182;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+183;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+184;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+185;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+186;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+187;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+188;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+189;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+190;Compression / Flexure;0.075;1.00;57.3;1.3;Compression / Flexure;0.075;1.00;35.2;2.1;No effective lengths assigned.
+191;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+192;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+193;Compression / Flexure;0.150;1.00;57.3;2.6;Compression / Flexure;0.150;1.00;35.2;4.3;No effective lengths assigned.
+194;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+195;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+196;Compression / Flexure;1.575;1.00;57.3;27.5;Compression / Flexure;1.575;1.00;35.2;44.7;No effective lengths assigned.
+197;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+198;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+199;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+200;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+201;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+202;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+203;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+204;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+205;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+206;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+207;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+208;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+209;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+210;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+211;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+212;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+213;Compression / Flexure;5.000;1.00;88.6;56.4;Compression / Flexure;5.000;1.00;17.3;289.3;
+214;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+215;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+216;Compression / Flexure;0.075;1.00;57.3;1.3;Compression / Flexure;0.075;1.00;35.2;2.1;No effective lengths assigned.
+217;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+218;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+219;Compression / Flexure;0.150;1.00;57.3;2.6;Compression / Flexure;0.150;1.00;35.2;4.3;No effective lengths assigned.
+220;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+221;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+222;Compression / Flexure;1.575;1.00;57.3;27.5;Compression / Flexure;1.575;1.00;35.2;44.7;No effective lengths assigned.
+223;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+224;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.
+225;Compression / Flexure;1.650;1.00;57.3;28.8;Compression / Flexure;1.650;1.00;35.2;46.9;No effective lengths assigned.

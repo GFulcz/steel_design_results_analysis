@@ -1,0 +1,6 @@
+﻿Action;;;EN 1990 | DIN | 2012-08;Action;;;;;;;
+;Name;Active;Action Category;Type;LC.1;LC.2;LC.3;LC.4;LC.5;Options;Comment
+A1;Permanent;+;Permanent;Simultaneously;LC1;;;;;;
+A2;Snow/Ice loads - H <= 1000 m;+;Snow/Ice loads - H <= 1000 m;Alternatively;LC2;;;;;;
+A3;Wind;+;Wind;Alternatively;LC3;LC4;LC5;LC6;;;
+A4;Prestress;+;Prestress;Simultaneously;LC9;;;;;;

@@ -1,0 +1,42 @@
+﻿;;;;
+;Description;Value;Unit;Notes
+;Sum of loads and sum of support forces;;;
+;Sum of loads in X;65.04;kN;
+;Sum of support forces in X;65.04;kN;Deviation: 0.00 %
+;Sum of loads in Y;0.00;kN;
+;Sum of support forces in Y;0.00;kN;
+;Sum of loads in Z;515.68;kN;
+;Sum of support forces in Z;515.68;kN;Deviation: 0.00 %
+;;;;
+;Resultant of reactions;;;
+;Resultant of reactions about X;70.60;kNm;At center of gravity of model (9.972, 12.326, -3.889 m)
+;Resultant of reactions about Y;114.73;kNm;At center of gravity of model
+;Resultant of reactions about Z;-11.35;kNm;At center of gravity of model
+;;;;
+;Maximum deformations;;;
+;Maximum displacement in X-direction;75.8;mm;Member No. 43, x: 2.500 m
+;Maximum displacement in Y-direction;4.4;mm;Member No. 41, x: 2.500 m
+;Maximum displacement in Z-direction;32.4;mm;Member No. 153, x: 2.500 m
+;Maximum vectorial displacement;76.2;mm;Member No. 43, x: 2.500 m
+;Maximum rotation about X-axis;-19.7;mrad;Member No. 35, x: 1.650 m
+;Maximum rotation about Y-axis;-3.5;mrad;Member No. 124, x: 0.000 m
+;Maximum rotation about Z-axis;-47.1;mrad;Member No. 43, x: 0.000 m
+;;;;
+;Calculation statistic;;;
+;Number of iterations;4;;
+;Maximum value of element of stiffness matrix on diagonal;2.65e+13;--;
+;Minimum value of element of stiffness matrix on diagonal;19126.20;--;
+;Stiffness matrix determinant;3.46e+89687;--;
+;Infinity Norm;6.04e+13;--;
+;;;;
+;Static Analysis Settings No. 2 - Second-order (P-Δ) | Newton-Raphson | 100 | 3;;;
+;Analysis type;Second-order (P-Δ);;
+;Iterative method;Newton-Raphson;;
+;Maximum number of iterations;100;;
+;Number of load increments;3;;
+;Modify loading by multiplier factor;;;
+;Consider favorable effects due to tension forces of members;;;
+;Save results of all load increments;;;
+;Asymmetric direct solver;;;
+;Method for Equation System;Direct;;
+;Plate bending theory;Mindlin;;

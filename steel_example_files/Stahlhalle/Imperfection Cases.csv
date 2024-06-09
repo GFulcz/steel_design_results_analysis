@@ -1,0 +1,11 @@
+﻿Imperf. Case;;;Assigned to;;;;;;
+;Imperfection Case Name;Is Active;Load Cases;Load Combinations;Imperfection Type;Source Type;Source;Options;Comment
+IC1;;;;;;;;;
+IC2;;;;;;;;;
+IC3;;;;;;;;;
+IC4;;;;;;;;;
+IC5;;;;;;;;;
+IC6;;;;;;;;;
+IC7;;+;;1,3,5,6,8,10,11,13,15,16,18,20,22,24,25,27,29,30,32,34,35,37;Local Imperfections;;;;
+IC8;;+;;2,4,7,9,12,14,17,19,21,23,26,28,31,33,36,38;Local Imperfections;;;;
+IC9;;;;;;;;;

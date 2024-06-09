@@ -1,0 +1,5 @@
+﻿;Object;;Error;
+;Type;Objects No.;Type;Description
+;Member;2-5,35-38,188-199,214-225;ER0059;No effective lengths or boundary conditions are assigned. The stability design could not be performed.
+;Member Set;1-6,21-34;ER0022;Design properties are deactivated.
+;Member Set;1-6,21-34;ER0033;Members No. 2-5,11-14,17-20,23-26,29-32,35-38,84-225 are not designed via member set.
