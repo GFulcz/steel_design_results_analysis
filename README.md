@@ -26,11 +26,11 @@ This program selects the directory with csv files exported from RFEM 6 program a
 
 During creation of Steel_Design table, this is a starting state of data:
 
-[![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Steel_Design_startstate.png)]
+![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Steel_Design_startstate.png)
 
 During the execution of the program, this is the end state of data inside a created database:
 
-[![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Steel_Design_endstate.png)]
+![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Steel_Design_endstate.png)
 
 
 
@@ -40,11 +40,11 @@ In this process mainly renaming of column headers takes place and skipping of em
 
 During creation of Sections table, this is a starting state of data:
 
-[![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Sections_startstate.png)]
+![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Sections_startstate.png)
 
 During the execution of the program, this is the end state of data inside a created database:
 
-[![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Sections_endstate.png)]
+![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Sections_endstate.png)
 
 
 In this process parsing the data also includes a process of renaming of column headers. Apart from that a type of notation is changed, from the comma/dash notation of a list Member Numbers assigned to a given section, is changed to a morelike database structure where every row of data assigns a unique Member Number to a Section Number with appropriate Section Description.
@@ -53,7 +53,7 @@ In this process parsing the data also includes a process of renaming of column h
 
 Based on these tables a view of most important data is created:
 
-[![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Results_endstate.png)]
+![image](https://github.com/GFulcz/steel_design_results_analysis/blob/main/img/Results_endstate.png)
 
 
 In this view-table most important data from both original tables is connected to represent final Steel Design results with consideration of their Section for every Member Number. Based on this, later an exemplary short analysis is performed to define how many members are not safe in the structure and if the remainder of safe members, on average, is properly optimized. With use of created database and commited changes to it's data and structure more further analysis can be performed. 
